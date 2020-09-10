@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 
 I'm a chemical engineering student at UBC who also has a bruning interest for Data Science and its appliations in industry
