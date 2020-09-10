@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /Contact/
 ---
 
-Some information about you!
+I'm a chemical engineering student at UBC who also has a bruning interest for Data Science and its appliations in industry
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy trying to make this thing work oh my god please I don't like gitbash but its just so cool. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+You can use my [email](mailto:musarasheed608@gmail.com) or if that's not your style, try my [Linkedin](https://www.linkedin.com/in/musarasheed/)
